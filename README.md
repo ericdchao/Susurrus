@@ -23,7 +23,8 @@ Susurrus.jar is the executable java file that automatically runs the game (Off o
 Game_Package contains the important java files for the game:
 
   bin/gameframework
-      resources
+   
+     resources
         images
           contains all images for the game
         sounds
