@@ -26,9 +26,9 @@ Game_Package contains the important java files for the game:
    
      resources
         images
-          contains all images for the game
+          Contains all images for the game
         sounds
-          empty folder for sounds
+          Empty folder for sounds
     Ball.class
       Ball Object 
     Canvas.class
