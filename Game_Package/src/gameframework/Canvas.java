@@ -13,7 +13,7 @@ import java.awt.event.MouseListener;
 import java.awt.image.BufferedImage;
 import javax.swing.JPanel;
 
-/**
+/***
  * Create a JPanel on which we draw and listen for keyboard and mouse events.
  * 
  * @author www.gametutorial.net

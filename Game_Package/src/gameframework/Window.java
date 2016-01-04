@@ -3,10 +3,10 @@ package gameframework;
 import javax.swing.JFrame;
 import javax.swing.SwingUtilities;
 
-/**
- * Creates frame and set its properties.
+/***
+ * Creates frame and set its properties through Java JFrame
  * 
- * @author www.gametutorial.net
+ * @author Eric Chao
  */
 
 public class Window extends JFrame{
@@ -14,7 +14,7 @@ public class Window extends JFrame{
     private Window()
     {
         // Sets the title for this frame.
-        this.setTitle("Game title");
+        this.setTitle("Susurrus");
         
         // Sets size of the frame.
         if(false) // Full screen mode
@@ -27,7 +27,7 @@ public class Window extends JFrame{
         else // Window mode
         {
             // Size of the frame.
-            this.setSize(1024, 768);
+            this.setSize(900, 600);
             // Puts frame to center of the screen.
             this.setLocationRelativeTo(null);
             // So that frame cannot be resizable by the user.
